@@ -1,0 +1,188 @@
+[
+  {
+    "id": "1",
+    "artist": "Metallica",
+    "title": "Enter Sandman (Remastered 2021)",
+    "src": "/music/track-01.mp3"
+  },
+  {
+    "id": "2",
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "src": "/music/track-02.mp3"
+  },
+  {
+    "id": "3",
+    "artist": "ELENA ROSE",
+    "title": "Quién Contra Mí",
+    "src": "/music/track-03.mp3"
+  },
+  {
+    "id": "4",
+    "artist": "Hoobastank",
+    "title": "The Reason",
+    "src": "/music/track-04.mp3"
+  },
+  {
+    "id": "5",
+    "artist": "The Kooks",
+    "title": "Naive",
+    "src": "/music/track-05.mp3"
+  },
+  {
+    "id": "6",
+    "artist": "alleh",
+    "title": "carita linda ;)",
+    "src": "/music/track-06.mp3"
+  },
+  {
+    "id": "7",
+    "artist": "Evanescence",
+    "title": "Bring Me To Life",
+    "src": "/music/track-07.mp3"
+  },
+  {
+    "id": "8",
+    "artist": "Metallica",
+    "title": "Master Of Puppets",
+    "src": "/music/track-08.mp3"
+  },
+  {
+    "id": "9",
+    "artist": "Daughter",
+    "title": "Youth",
+    "src": "/music/track-09.mp3"
+  },
+  {
+    "id": "10",
+    "artist": "Limp Bizkit",
+    "title": "My Generation",
+    "src": "/music/track-10.mp3"
+  },
+  {
+    "id": "11",
+    "artist": "Peter Bjorn And John",
+    "title": "Young Folks",
+    "src": "/music/track-11.mp3"
+  },
+  {
+    "id": "12",
+    "artist": "The Offspring",
+    "title": "You're Gonna Go Far, Kid",
+    "src": "/music/track-12.mp3"
+  },
+  {
+    "id": "13",
+    "artist": "Bring Me The Horizon",
+    "title": "Sleepwalking",
+    "src": "/music/track-13.mp3"
+  },
+  {
+    "id": "14",
+    "artist": "Fito y Fitipaldis",
+    "title": "Catorce vidas son dos gatos",
+    "src": "/music/track-14.mp3"
+  },
+  {
+    "id": "15",
+    "artist": "Metallica",
+    "title": "Fade To Black (Remastered)",
+    "src": "/music/track-15.mp3"
+  },
+  {
+    "id": "16",
+    "artist": "The Offspring",
+    "title": "Pretty Fly (For A White Guy)",
+    "src": "/music/track-16.mp3"
+  },
+  {
+    "id": "17",
+    "artist": "Olivia Dean",
+    "title": "So Easy (To Fall In Love)",
+    "src": "/music/track-17.mp3"
+  },
+  {
+    "id": "18",
+    "artist": "The Offspring",
+    "title": "The Kids Aren't Alright",
+    "src": "/music/track-18.mp3"
+  },
+  {
+    "id": "19",
+    "artist": "Bring Me The Horizon",
+    "title": "Shadow Moses",
+    "src": "/music/track-19.mp3"
+  },
+  {
+    "id": "20",
+    "artist": "Cat Power",
+    "title": "Fool",
+    "src": "/music/track-20.mp3"
+  },
+  {
+    "id": "21",
+    "artist": "Linkin Park",
+    "title": "CASTLE OF GLASS",
+    "src": "/music/track-21.mp3"
+  },
+  {
+    "id": "22",
+    "artist": "Paramore",
+    "title": "Ain't It Fun",
+    "src": "/music/track-22.mp3"
+  },
+  {
+    "id": "23",
+    "artist": "Limp Bizkit",
+    "title": "Rollin' (Air Raid Vehicle)",
+    "src": "/music/track-23.mp3"
+  },
+  {
+    "id": "24",
+    "artist": "Green Day",
+    "title": "Wake Me up When September Ends",
+    "src": "/music/track-24.mp3"
+  },
+  {
+    "id": "25",
+    "artist": "Linkin Park",
+    "title": "Faint",
+    "src": "/music/track-25.mp3"
+  },
+  {
+    "id": "26",
+    "artist": "Linkin Park",
+    "title": "In the End",
+    "src": "/music/track-26.mp3"
+  },
+  {
+    "id": "27",
+    "artist": "Metallica",
+    "title": "Nothing Else Matters (Remastered 2021)",
+    "src": "/music/track-27.mp3"
+  },
+  {
+    "id": "28",
+    "artist": "Paramore",
+    "title": "Last Hope",
+    "src": "/music/track-28.mp3"
+  },
+  {
+    "id": "29",
+    "artist": "Bring Me The Horizon",
+    "title": "Drown",
+    "src": "/music/track-29.mp3"
+  },
+  {
+    "id": "30",
+    "artist": "Linkin Park",
+    "title": "Breaking the Habit",
+    "src": "/music/track-30.mp3"
+  },
+  {
+    "id": "31",
+    "artist": "Linkin Park",
+    "title": "Numb",
+    "src": "/music/track-31.mp3"
+  }
+]

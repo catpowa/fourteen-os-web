@@ -1,0 +1,26 @@
+[
+  {
+    "file": "fourteen-art-1080x1080.png",
+    "width": 1080,
+    "height": 1080,
+    "valid": true
+  },
+  {
+    "file": "fourteen-art-1080x1350.png",
+    "width": 1080,
+    "height": 1350,
+    "valid": true
+  },
+  {
+    "file": "fourteen-art-1080x1920.png",
+    "width": 1080,
+    "height": 1920,
+    "valid": true
+  },
+  {
+    "file": "fourteen-art-1920x1080.png",
+    "width": 1920,
+    "height": 1080,
+    "valid": true
+  }
+]
