@@ -1,0 +1,117 @@
+{
+  "owner": "CATORCEVIDAS",
+  "files": [
+    {
+      "file": "brand-avatar.jpg",
+      "bytes": 77653,
+      "width": 633,
+      "height": 633
+    },
+    {
+      "file": "branditamina-poster.jpg",
+      "bytes": 21411,
+      "width": 1152,
+      "height": 648
+    },
+    {
+      "file": "branditamina.mp4",
+      "bytes": 1221035,
+      "width": 1152,
+      "height": 648,
+      "durationSeconds": 8,
+      "codec": "H.264",
+      "silent": true,
+      "fullDecodeVerified": true
+    },
+    {
+      "file": "diagram-business.png",
+      "bytes": 72135,
+      "width": 1281,
+      "height": 1600
+    },
+    {
+      "file": "marketing-structure.png",
+      "bytes": 47811,
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "mascot-still.png",
+      "bytes": 11374,
+      "width": 192,
+      "height": 208
+    },
+    {
+      "file": "mascot.gif",
+      "bytes": 51249,
+      "width": 192,
+      "height": 208
+    },
+    {
+      "file": "modeling-poster.jpg",
+      "bytes": 56789,
+      "width": 1152,
+      "height": 648
+    },
+    {
+      "file": "modeling.mp4",
+      "bytes": 1673575,
+      "width": 1152,
+      "height": 648,
+      "durationSeconds": 15.6,
+      "codec": "H.264",
+      "silent": true,
+      "fullDecodeVerified": true
+    },
+    {
+      "file": "portfolio-poster.jpg",
+      "bytes": 17818,
+      "width": 432,
+      "height": 432
+    },
+    {
+      "file": "portfolio.mp4",
+      "bytes": 212532,
+      "width": 432,
+      "height": 432,
+      "durationSeconds": 7,
+      "codec": "H.264",
+      "silent": true,
+      "fullDecodeVerified": true
+    },
+    {
+      "file": "portrait-dither.png",
+      "bytes": 27729,
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "portrait-thumb.jpg",
+      "bytes": 31910,
+      "width": 480,
+      "height": 720
+    },
+    {
+      "file": "portrait.jpg",
+      "bytes": 222123,
+      "width": 1200,
+      "height": 1800
+    },
+    {
+      "file": "talking-poster.jpg",
+      "bytes": 63599,
+      "width": 900,
+      "height": 900
+    },
+    {
+      "file": "talking.mp4",
+      "bytes": 5886866,
+      "width": 900,
+      "height": 900,
+      "durationSeconds": 41.2667,
+      "codec": "H.264",
+      "silent": true,
+      "fullDecodeVerified": true
+    }
+  ]
+}
