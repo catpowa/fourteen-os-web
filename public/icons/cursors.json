@@ -1,0 +1,58 @@
+{
+  "pointer": {
+    "url": "/icons/cursor-pointer.svg",
+    "hotspot": [
+      1,
+      1
+    ]
+  },
+  "hand": {
+    "url": "/icons/cursor-hand.svg",
+    "hotspot": [
+      10,
+      2
+    ]
+  },
+  "grab": {
+    "url": "/icons/cursor-grab.svg",
+    "hotspot": [
+      15,
+      15
+    ]
+  },
+  "grabbing": {
+    "url": "/icons/cursor-grabbing.svg",
+    "hotspot": [
+      15,
+      15
+    ]
+  },
+  "text": {
+    "url": "/icons/cursor-text.svg",
+    "hotspot": [
+      15,
+      16
+    ]
+  },
+  "resize": {
+    "url": "/icons/cursor-resize.svg",
+    "hotspot": [
+      16,
+      16
+    ]
+  },
+  "pencil": {
+    "url": "/icons/cursor-pencil.svg",
+    "hotspot": [
+      4,
+      28
+    ]
+  },
+  "wait": {
+    "url": "/icons/cursor-wait.svg",
+    "hotspot": [
+      15,
+      15
+    ]
+  }
+}
